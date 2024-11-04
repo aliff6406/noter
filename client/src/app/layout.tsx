@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Noter',
-  description: 'The Next-Gen Note-Taking App',
+  description: 'The connected workspace where better and faster work gets done.',
 };
 
 export default function RootLayout({
